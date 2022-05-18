@@ -40,3 +40,18 @@ Ajude Cérebro a resolver o desadio de Pink.
 | 2 5 4 20 10 | 0 Multiplo(s) de 3 |
 | | 2 Multiplo(s) de 4 |
 | | 3 Multiplo(s) de 5 |
+
+Desafio 3:
+Você terá o desafio de escrever um programa que leia um valor inteiro N (1 < N < 1000). Este N é a quantidade de linhas de saída que serão apresentadas na execução do programa.
+
+Entrada: O arquivo de entrada contém um número inteiro positivo N.
+Saída: Imprima a saída conforme o exemplo fornecido.
+
+| Exemplos de Entrada | Exemplos de Saída |
+| --- | --- |
+| 5 | 1 1 1 |
+| | 2 4 8 |
+| | 3 9 27 |
+| | 4 16 64 |
+| | 5 25 125 |
+
